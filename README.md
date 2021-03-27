@@ -3,6 +3,21 @@
 This repository is for me to practice SQL using PostGreSQL and connecting it with Pandas. Refer to the Supplemental folder for the necessary downloads.
 
 ## Topics Covered
+1. Creating Database
+2. Creating Tables
+3. Making IDs
+4. Imports
+5. Joins
+6. Aggregates
+7. Order By
+8. Subqueries
+9. Creating Views
+10. Data Normalization
+11. Foreign Keys
+12. Data Relationships
+13. Connecting Pandas with SQL
+14. ERD
+15. Building ERD
 
 ## Slides
 
